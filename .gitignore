@@ -1,0 +1,12 @@
+.venv/
+build/
+dist/
+installer_output/
+cache/
+pasted/
+config.json
+*.log
+__pycache__/
+*.spec
+models/*
+!models/.gitkeep

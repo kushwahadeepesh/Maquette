@@ -1,0 +1,5 @@
+numpy
+glfw>=2.6
+moderngl>=5.8
+trimesh>=4.0
+pillow>=10.1
